@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPClient",
+            "request": "launch",
+            "mainClass": "TCPClient",
+            "projectName": "CCMP0054_TCP"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCPServer",
+            "request": "launch",
+            "mainClass": "TCPServer",
+            "projectName": "CCMP0054_TCP"
+        }
+    ]
+}
